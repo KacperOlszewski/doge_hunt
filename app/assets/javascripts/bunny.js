@@ -33,9 +33,9 @@ var last_doge;
 
 function randoms() { 
 
-    var limit = 50; //number of jumps
-    var initial = 1900; //starting interval 
-    var bunny_duration = 670; //time bunny exists
+    var limit = 40; //number of jumps
+    var initial = 2000; //starting interval 
+    var bunny_duration = 685; //time bunny exists
     var progress = start[0]/limit;
     var max_speed = bunny_duration / initial;
     var speed = initial - (progress * initial * (1-max_speed));
