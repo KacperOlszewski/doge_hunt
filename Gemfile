@@ -8,6 +8,7 @@ gem 'sqlite3', group: :development
 
 group :production do
 	gem 'pg'
+	gem 'rails_12factor'
 end
 gem 'sass-rails', '~> 5.0'
 # Use Uglifier as compressor for JavaScript assets
