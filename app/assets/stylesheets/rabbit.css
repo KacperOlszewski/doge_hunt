@@ -208,6 +208,7 @@ body.game {
   right: 10px;
   padding: 16px;
   border-radius: 50%;
+  line-height: 110%;
   background: #FFF;
   text-align: center;
   text-transform: uppercase;
@@ -298,18 +299,4 @@ body.game {
   66% {padding: 27px;}
   84% {padding: 22px;}
   100% {padding: 16px;}
-
-<!--  0% {padding: 14px;}
-  10% {padding: 22px;}
-  20% {padding: 27px;}
-  30% {padding: 31px}
-  40% {padding: 34px;}
-  45% {padding: 35px;}
-  50% {padding: 36px;}
-  55% {padding: 36px;}
-  60% {padding: 34px;}
-  70% {padding: 31px;}
-  80% {padding: 27px;}
-  90% {padding: 22px;}
-  100% {padding: 16px;} -->
 }
