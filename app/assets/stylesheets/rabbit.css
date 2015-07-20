@@ -43,7 +43,7 @@ body.game {
 .winner {
   color: green;
   font-weight: bold;
-  letter-spacing: 2px
+  letter-spacing: 2px;
   -webkit-animation-name: combo;
   animation-name: combo;
   -webkit-animation-duration: 0.2s;
